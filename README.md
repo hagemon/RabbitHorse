@@ -1,2 +1,2 @@
 # RabbitHorse
-My first game, made two years ago.
+My first Cocos2d game
